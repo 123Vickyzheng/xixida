@@ -1,0 +1,48 @@
+{
+  "id" : "O1LY08YR",
+  "name" : "计划任务1",
+  "variables" : [ ],
+  "parameters" : [ ],
+  "returnValues" : [ ],
+  "enableTransaction" : true,
+  "scheduleConfig" : {
+    "type" : "once",
+    "startTime" : "2026-03-10T09:29:00.000Z",
+    "priority" : "normal"
+  },
+  "enabled" : true,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "QRT9JUSA",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 80,
+          "y" : 200
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "G9TDAG99",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 800,
+          "y" : 200
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "IX0ZC3QV",
+      "sourceId" : "QRT9JUSA",
+      "targetId" : "G9TDAG99",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  },
+  "type" : "scheduledTask"
+}

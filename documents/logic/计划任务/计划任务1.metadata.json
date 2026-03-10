@@ -1,0 +1,15 @@
+{
+  "id" : "O1LY08YR",
+  "name" : "计划任务1",
+  "enableTransaction" : true,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ ],
+  "scheduleConfig" : {
+    "type" : "once",
+    "startTime" : "2026-03-10T09:29:00.000Z",
+    "priority" : "normal"
+  },
+  "enabled" : true,
+  "type" : "scheduledTask"
+}
