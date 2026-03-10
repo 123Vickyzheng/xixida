@@ -1,0 +1,64 @@
+{
+  "id" : "P9SU5339",
+  "dataSourceId" : "VCI0O69Y",
+  "schema" : "public",
+  "tableName" : "实体2",
+  "name" : "实体2",
+  "showBuiltinColumns" : false,
+  "columns" : [ {
+    "id" : "PL3MDY6R",
+    "columnName" : "id",
+    "name" : "id",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "isPrimaryKey" : true,
+    "isBuiltIn" : true,
+    "columnKind" : "physical",
+    "isAutoIncrement" : true
+  }, {
+    "id" : "UULD74IB",
+    "columnName" : "created_at",
+    "name" : "created_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "VCJ6TKZN",
+    "columnName" : "updated_at",
+    "name" : "updated_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "GM0B3R4L",
+    "columnName" : "created_by",
+    "name" : "created_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "PI7K38A5",
+    "columnName" : "updated_by",
+    "name" : "updated_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  } ]
+}

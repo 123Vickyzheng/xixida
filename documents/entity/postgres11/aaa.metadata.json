@@ -1,0 +1,130 @@
+{
+  "id" : "Y613TXH4",
+  "dataSourceId" : "VCI0O69Y",
+  "schema" : "public",
+  "tableName" : "aaa",
+  "name" : "aaa",
+  "showBuiltinColumns" : false,
+  "columns" : [ {
+    "id" : "X7WAEVX2",
+    "columnName" : "id",
+    "name" : "id",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "isPrimaryKey" : true,
+    "isBuiltIn" : true,
+    "columnKind" : "physical",
+    "isAutoIncrement" : true
+  }, {
+    "id" : "QDWBWY6E",
+    "columnName" : "created_at",
+    "name" : "created_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "XD0A0AS5",
+    "columnName" : "updated_at",
+    "name" : "updated_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "KIFVVTD6",
+    "columnName" : "created_by",
+    "name" : "created_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "CE5YQBLU",
+    "columnName" : "updated_by",
+    "name" : "updated_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "N4ICZ8KB",
+    "columnName" : "Integer",
+    "name" : "Integer",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "TVV9A541",
+    "columnName" : "Decimal",
+    "name" : "Decimal",
+    "dataType" : {
+      "typeId" : "Decimal"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "TME4B1YD",
+    "columnName" : "Boolean",
+    "name" : "Boolean",
+    "dataType" : {
+      "typeId" : "Boolean"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "WUYQ44CA",
+    "columnName" : "String",
+    "name" : "String",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "RNOX95EL",
+    "columnName" : "Date",
+    "name" : "Date",
+    "dataType" : {
+      "typeId" : "Date"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "PRKHRTDL",
+    "columnName" : "Time",
+    "name" : "Time",
+    "dataType" : {
+      "typeId" : "Time"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  } ]
+}

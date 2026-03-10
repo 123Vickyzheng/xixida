@@ -1,0 +1,211 @@
+{
+  "type" : "entityModel",
+  "id" : "GC1Y3G10",
+  "dataSourceId" : "VCI0O69Y",
+  "schema" : "public",
+  "name" : "实体3",
+  "tableName" : "实体3",
+  "showBuiltinColumns" : false,
+  "columns" : [ {
+    "type" : "entityColumnModel",
+    "id" : "I9CF6PJN",
+    "name" : "id",
+    "columnName" : "id",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "dbType" : "INT4",
+    "jdbcType" : 4,
+    "columnLength" : null,
+    "precision" : 10,
+    "scale" : 0,
+    "isPrimaryKey" : true,
+    "isUnique" : true,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "defaultValue" : null,
+    "isAutoIncrement" : true,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "I21RED4P",
+    "name" : "字段1",
+    "columnName" : "字段1",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "YRCMTZSR",
+    "name" : "字段2",
+    "columnName" : "字段2",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "KP4OKOV9",
+    "name" : "字段3",
+    "columnName" : "字段3",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "VILU514N",
+    "name" : "字段4",
+    "columnName" : "字段4",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "YU52AJPC",
+    "name" : "创建时间",
+    "columnName" : "phx_created_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "dbType" : "TIMESTAMPTZ",
+    "jdbcType" : 2014,
+    "columnLength" : null,
+    "precision" : 35,
+    "scale" : 6,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "defaultValue" : "CURRENT_TIMESTAMP",
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 180
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "DM75DU1E",
+    "name" : "更新时间",
+    "columnName" : "phx_updated_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "dbType" : "TIMESTAMPTZ",
+    "jdbcType" : 2014,
+    "columnLength" : null,
+    "precision" : 35,
+    "scale" : 6,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "defaultValue" : "CURRENT_TIMESTAMP",
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 180
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "S2ONZ3O3",
+    "name" : "创建人",
+    "columnName" : "phx_created_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : true,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "QULUSDAP",
+    "name" : "更新人",
+    "columnName" : "phx_updated_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : true,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  } ],
+  "columnExtensionLoaded" : true,
+  "indexes" : [ {
+    "indexName" : "实体3_pkey1",
+    "isUnique" : true,
+    "isPrimary" : true,
+    "isUnEditable" : null,
+    "description" : "主键索引",
+    "indexColumns" : [ {
+      "columnId" : "I9CF6PJN",
+      "order" : "ASC"
+    } ]
+  } ]
+}

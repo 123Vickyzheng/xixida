@@ -1,0 +1,253 @@
+{
+  "type" : "entityModel",
+  "id" : "Y613TXH4",
+  "dataSourceId" : "VCI0O69Y",
+  "schema" : "public",
+  "name" : "aaa",
+  "tableName" : "aaa",
+  "showBuiltinColumns" : false,
+  "columns" : [ {
+    "type" : "entityColumnModel",
+    "id" : "X7WAEVX2",
+    "name" : "id",
+    "columnName" : "id",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "dbType" : "INT4",
+    "jdbcType" : 4,
+    "columnLength" : null,
+    "precision" : 10,
+    "scale" : 0,
+    "isPrimaryKey" : true,
+    "isUnique" : true,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "defaultValue" : null,
+    "isAutoIncrement" : true,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "QDWBWY6E",
+    "name" : "created_at",
+    "columnName" : "created_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "dbType" : "TIMESTAMPTZ",
+    "jdbcType" : 2014,
+    "columnLength" : null,
+    "precision" : 35,
+    "scale" : 6,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : true,
+    "isBuiltIn" : false,
+    "defaultValue" : "CURRENT_TIMESTAMP",
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 180
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "XD0A0AS5",
+    "name" : "updated_at",
+    "columnName" : "updated_at",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "dbType" : "TIMESTAMPTZ",
+    "jdbcType" : 2014,
+    "columnLength" : null,
+    "precision" : 35,
+    "scale" : 6,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : true,
+    "isBuiltIn" : false,
+    "defaultValue" : "CURRENT_TIMESTAMP",
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 180
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "KIFVVTD6",
+    "name" : "created_by",
+    "columnName" : "created_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "CE5YQBLU",
+    "name" : "updated_by",
+    "columnName" : "updated_by",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "N4ICZ8KB",
+    "name" : "Integer",
+    "columnName" : "Integer",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "dbType" : "INT4",
+    "jdbcType" : 4,
+    "columnLength" : null,
+    "precision" : 10,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "TVV9A541",
+    "name" : "Decimal",
+    "columnName" : "Decimal",
+    "dataType" : {
+      "typeId" : "Decimal"
+    },
+    "dbType" : "FLOAT4",
+    "jdbcType" : 7,
+    "columnLength" : null,
+    "precision" : 8,
+    "scale" : 8,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "TME4B1YD",
+    "name" : "Boolean",
+    "columnName" : "Boolean",
+    "dataType" : {
+      "typeId" : "Boolean"
+    },
+    "dbType" : "BOOL",
+    "jdbcType" : 16,
+    "columnLength" : null,
+    "precision" : 1,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "WUYQ44CA",
+    "name" : "String",
+    "columnName" : "String",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "columnLength" : null,
+    "precision" : 2147483647,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "RNOX95EL",
+    "name" : "Date",
+    "columnName" : "Date",
+    "dataType" : {
+      "typeId" : "Date"
+    },
+    "dbType" : "DATE",
+    "jdbcType" : 91,
+    "columnLength" : null,
+    "precision" : 13,
+    "scale" : 0,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 120
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "PRKHRTDL",
+    "name" : "Time",
+    "columnName" : "Time",
+    "dataType" : {
+      "typeId" : "Time"
+    },
+    "dbType" : "TIME",
+    "jdbcType" : 92,
+    "columnLength" : null,
+    "precision" : 15,
+    "scale" : 6,
+    "isPrimaryKey" : false,
+    "isUnique" : false,
+    "isRequired" : false,
+    "isBuiltIn" : false,
+    "defaultValue" : null,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "width" : 100
+  } ],
+  "columnExtensionLoaded" : true,
+  "indexes" : [ {
+    "indexName" : "aaa_pkey",
+    "isUnique" : true,
+    "isPrimary" : true,
+    "isUnEditable" : null,
+    "description" : "主键索引",
+    "indexColumns" : [ {
+      "columnId" : "X7WAEVX2",
+      "order" : "ASC"
+    } ]
+  } ]
+}

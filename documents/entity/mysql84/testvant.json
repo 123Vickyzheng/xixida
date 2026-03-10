@@ -1,10 +1,9 @@
 {
-  "type" : "entityModel",
   "id" : "ZPOH0Y87",
-  "name" : "testvant",
-  "tableName" : "testvant",
-  "showBuiltinColumns" : false,
   "dataSourceId" : "QF7RWONS",
+  "tableName" : "testvant",
+  "name" : "testvant",
+  "showBuiltinColumns" : false,
   "columns" : [ {
     "type" : "entityColumnModel",
     "id" : "KKNGXRSX",
@@ -76,6 +75,22 @@
     "columnKind" : "physical"
   }, {
     "type" : "entityColumnModel",
+    "id" : "LP9M87VM",
+    "columnName" : "公式字段1",
+    "name" : "公式字段1",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "width" : 100,
+    "isRequired" : false,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "isUnique" : false,
+    "isAutoIncrement" : false,
+    "formula" : "[字段1]",
+    "columnKind" : "formula"
+  }, {
+    "type" : "entityColumnModel",
     "id" : "OSK9EET2",
     "columnName" : "phx_created_at",
     "name" : "创建时间",
@@ -142,7 +157,31 @@
     "defaultValue" : "",
     "isUnique" : false,
     "columnKind" : "physical"
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "ZV2C2I4U",
+    "columnName" : "字段4",
+    "name" : "字段4",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "VARCHAR",
+    "jdbcType" : 12,
+    "width" : 100,
+    "isRequired" : false,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "isUnique" : false,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical",
+    "precision" : 255,
+    "scale" : 0,
+    "columnLength" : 255,
+    "defaultValue" : null
   } ],
+  "type" : "entityModel",
+  "columnExtensionLoaded" : true,
+  "originalPath" : "/mysql84/testvant",
   "indexes" : [ {
     "indexName" : "PRIMARY",
     "isUnique" : true,
@@ -153,6 +192,5 @@
       "columnId" : "KKNGXRSX",
       "order" : "ASC"
     } ]
-  } ],
-  "columnExtensionLoaded" : true
+  } ]
 }

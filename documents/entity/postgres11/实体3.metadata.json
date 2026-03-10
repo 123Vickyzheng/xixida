@@ -1,11 +1,12 @@
 {
-  "id" : "ZPOH0Y87",
-  "dataSourceId" : "QF7RWONS",
-  "tableName" : "testvant",
-  "name" : "testvant",
+  "id" : "GC1Y3G10",
+  "dataSourceId" : "VCI0O69Y",
+  "schema" : "public",
+  "tableName" : "实体3",
+  "name" : "实体3",
   "showBuiltinColumns" : false,
   "columns" : [ {
-    "id" : "KKNGXRSX",
+    "id" : "I9CF6PJN",
     "columnName" : "id",
     "name" : "id",
     "dataType" : {
@@ -16,9 +17,9 @@
     "columnKind" : "physical",
     "isAutoIncrement" : true
   }, {
-    "id" : "N35UVB4I",
+    "id" : "I21RED4P",
     "columnName" : "字段1",
-    "name" : "省份",
+    "name" : "字段1",
     "dataType" : {
       "typeId" : "String"
     },
@@ -27,9 +28,9 @@
     "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "U9FB0CAA",
+    "id" : "YRCMTZSR",
     "columnName" : "字段2",
-    "name" : "市",
+    "name" : "字段2",
     "dataType" : {
       "typeId" : "String"
     },
@@ -38,9 +39,9 @@
     "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "EZZVCX9P",
+    "id" : "KP4OKOV9",
     "columnName" : "字段3",
-    "name" : "区",
+    "name" : "字段3",
     "dataType" : {
       "typeId" : "String"
     },
@@ -49,58 +50,7 @@
     "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "LP9M87VM",
-    "columnName" : "公式字段1",
-    "name" : "公式字段1",
-    "dataType" : {
-      "typeId" : "String"
-    },
-    "isPrimaryKey" : false,
-    "isBuiltIn" : false,
-    "columnKind" : "formula",
-    "isAutoIncrement" : false
-  }, {
-    "id" : "OSK9EET2",
-    "columnName" : "phx_created_at",
-    "name" : "创建时间",
-    "dataType" : {
-      "typeId" : "DateTime"
-    },
-    "isPrimaryKey" : false,
-    "isBuiltIn" : true,
-    "columnKind" : "physical"
-  }, {
-    "id" : "UAOKEMTR",
-    "columnName" : "phx_updated_at",
-    "name" : "更新时间",
-    "dataType" : {
-      "typeId" : "DateTime"
-    },
-    "isPrimaryKey" : false,
-    "isBuiltIn" : true,
-    "columnKind" : "physical"
-  }, {
-    "id" : "DFX7FQ9D",
-    "columnName" : "phx_created_by",
-    "name" : "创建人",
-    "dataType" : {
-      "typeId" : "String"
-    },
-    "isPrimaryKey" : false,
-    "isBuiltIn" : true,
-    "columnKind" : "physical"
-  }, {
-    "id" : "OMVFLXW3",
-    "columnName" : "phx_updated_by",
-    "name" : "更新人",
-    "dataType" : {
-      "typeId" : "String"
-    },
-    "isPrimaryKey" : false,
-    "isBuiltIn" : true,
-    "columnKind" : "physical"
-  }, {
-    "id" : "ZV2C2I4U",
+    "id" : "VILU514N",
     "columnName" : "字段4",
     "name" : "字段4",
     "dataType" : {
@@ -108,6 +58,50 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "YU52AJPC",
+    "columnName" : "phx_created_at",
+    "name" : "创建时间",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "DM75DU1E",
+    "columnName" : "phx_updated_at",
+    "name" : "更新时间",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "S2ONZ3O3",
+    "columnName" : "phx_created_by",
+    "name" : "创建人",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "QULUSDAP",
+    "columnName" : "phx_updated_by",
+    "name" : "更新人",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
     "columnKind" : "physical",
     "isAutoIncrement" : false
   } ]

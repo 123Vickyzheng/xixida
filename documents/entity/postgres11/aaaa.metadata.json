@@ -1,11 +1,12 @@
 {
-  "id" : "ZPOH0Y87",
-  "dataSourceId" : "QF7RWONS",
-  "tableName" : "testvant",
-  "name" : "testvant",
+  "id" : "VWSIMSND",
+  "dataSourceId" : "VCI0O69Y",
+  "schema" : "public",
+  "tableName" : "aaaa",
+  "name" : "aaaa",
   "showBuiltinColumns" : false,
   "columns" : [ {
-    "id" : "KKNGXRSX",
+    "id" : "UEV9VVV2",
     "columnName" : "id",
     "name" : "id",
     "dataType" : {
@@ -16,9 +17,9 @@
     "columnKind" : "physical",
     "isAutoIncrement" : true
   }, {
-    "id" : "N35UVB4I",
+    "id" : "IMK2JLHF",
     "columnName" : "字段1",
-    "name" : "省份",
+    "name" : "字段1",
     "dataType" : {
       "typeId" : "String"
     },
@@ -27,9 +28,9 @@
     "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "U9FB0CAA",
+    "id" : "RXG9RAA8",
     "columnName" : "字段2",
-    "name" : "市",
+    "name" : "字段2",
     "dataType" : {
       "typeId" : "String"
     },
@@ -38,9 +39,20 @@
     "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "EZZVCX9P",
-    "columnName" : "字段3",
-    "name" : "区",
+    "id" : "GR7HI7Z6",
+    "columnName" : "Decimal",
+    "name" : "Decimal",
+    "dataType" : {
+      "typeId" : "Decimal"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "A0WZPN3W",
+    "columnName" : "String",
+    "name" : "String",
     "dataType" : {
       "typeId" : "String"
     },
@@ -49,18 +61,40 @@
     "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "LP9M87VM",
-    "columnName" : "公式字段1",
-    "name" : "公式字段1",
+    "id" : "TZZJCA1N",
+    "columnName" : "Time",
+    "name" : "Time",
     "dataType" : {
-      "typeId" : "String"
+      "typeId" : "Time"
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : false,
-    "columnKind" : "formula",
+    "columnKind" : "physical",
     "isAutoIncrement" : false
   }, {
-    "id" : "OSK9EET2",
+    "id" : "LZ94U4LU",
+    "columnName" : "Date",
+    "name" : "Date",
+    "dataType" : {
+      "typeId" : "Date"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "HDROD4VY",
+    "columnName" : "DateTime",
+    "name" : "DateTime",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "ZQPM8612",
     "columnName" : "phx_created_at",
     "name" : "创建时间",
     "dataType" : {
@@ -68,9 +102,10 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   }, {
-    "id" : "UAOKEMTR",
+    "id" : "RJZZ4OSO",
     "columnName" : "phx_updated_at",
     "name" : "更新时间",
     "dataType" : {
@@ -78,9 +113,10 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   }, {
-    "id" : "DFX7FQ9D",
+    "id" : "GZ73O32S",
     "columnName" : "phx_created_by",
     "name" : "创建人",
     "dataType" : {
@@ -88,9 +124,10 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   }, {
-    "id" : "OMVFLXW3",
+    "id" : "KHVTTMB4",
     "columnName" : "phx_updated_by",
     "name" : "更新人",
     "dataType" : {
@@ -98,16 +135,6 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
-  }, {
-    "id" : "ZV2C2I4U",
-    "columnName" : "字段4",
-    "name" : "字段4",
-    "dataType" : {
-      "typeId" : "String"
-    },
-    "isPrimaryKey" : false,
-    "isBuiltIn" : false,
     "columnKind" : "physical",
     "isAutoIncrement" : false
   } ]
