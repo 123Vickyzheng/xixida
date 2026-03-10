@@ -424,4 +424,16 @@
   "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa", "documents/page/PC/aaaaaaaaaa/.f.metadata.json", "documents/page/PC/aaaaaaaaaa/.f.json", "documents/ref-object/RCNTUKA0.json", "documents/ref-object/RCNTUKA0.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "RCNTUKA0"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/aaaaaaaaaa/页面1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:37:43.0927902Z",
+  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面1.json", "documents/page/PC/aaaaaaaaaa/页面1.metadata.json", "documents/page/PC/aaaaaaaaaa/页面1.refId.json", "documents/ref-object/CZFJ2CI4.json", "documents/ref-object/CZFJ2CI4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CZFJ2CI4"
 } ]
