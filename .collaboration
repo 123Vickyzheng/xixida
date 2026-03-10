@@ -379,25 +379,13 @@
 }, {
   "moduleType" : "logic",
   "moduleName" : "计划任务/计划任务1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:24:56.7493288Z",
-  "resourcePaths" : [ "documents/logic/计划任务/计划任务1.json", "documents/logic/计划任务/计划任务1.metadata.json", "documents/logic/计划任务/计划任务1.refId.json", "documents/ref-object/O1LY08YR.json", "documents/ref-object/O1LY08YR.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "O1LY08YR"
 }, {
   "moduleType" : "logic",
   "moduleName" : "计划任务/文件夹1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:25:54.0416993Z",
-  "resourcePaths" : [ "documents/logic/计划任务/文件夹1", "documents/logic/计划任务/文件夹1/.f.metadata.json", "documents/logic/计划任务/文件夹1/.f.json", "documents/ref-object/MME16HGZ.json", "documents/ref-object/MME16HGZ.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "MME16HGZ"
 } ]
