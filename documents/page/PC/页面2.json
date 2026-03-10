@@ -61,11 +61,22 @@
       } ]
     },
     "description" : ""
+  }, {
+    "id" : "FJSJ8LYG",
+    "name" : "变量2",
+    "defaultValue" : {
+      "type" : "expression"
+    },
+    "dataType" : {
+      "typeId" : "Y613TXH4"
+    },
+    "description" : ""
   } ],
   "events" : [ ],
   "logics" : [ ],
   "description" : "",
   "externalCssFiles" : [ ],
   "externalJsFiles" : [ ],
-  "type" : "page"
+  "type" : "page",
+  "linkedPageId" : "JC75AAZ3"
 }

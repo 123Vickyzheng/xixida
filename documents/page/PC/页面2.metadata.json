@@ -16,9 +16,20 @@
       } ]
     },
     "description" : ""
+  }, {
+    "id" : "FJSJ8LYG",
+    "name" : "变量2",
+    "defaultValue" : {
+      "type" : "expression"
+    },
+    "dataType" : {
+      "typeId" : "Y613TXH4"
+    },
+    "description" : ""
   } ],
   "logics" : [ ],
   "eventListeners" : [ ],
   "elementEventListeners" : [ ],
-  "platform" : "pc"
+  "platform" : "pc",
+  "linkedPageId" : "JC75AAZ3"
 }

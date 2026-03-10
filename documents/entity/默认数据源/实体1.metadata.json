@@ -24,7 +24,8 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   }, {
     "id" : "WTQE0E3G",
     "columnName" : "phx_updated_at",
@@ -34,7 +35,8 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   }, {
     "id" : "ZANEIMNK",
     "columnName" : "phx_created_by",
@@ -44,7 +46,8 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   }, {
     "id" : "NYL45J9L",
     "columnName" : "phx_updated_by",
@@ -54,6 +57,7 @@
     },
     "isPrimaryKey" : false,
     "isBuiltIn" : true,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   } ]
 }
