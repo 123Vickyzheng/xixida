@@ -208,7 +208,13 @@
 }, {
   "moduleType" : "datasource",
   "moduleName" : "默认数据源",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4807102Z",
+  "resourcePaths" : [ "documents/datasource/默认数据源.json", "documents/datasource/默认数据源.metadata.json", "documents/datasource/默认数据源.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "AKSYQ39I"
 }, {
@@ -220,7 +226,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源", "documents/entity/默认数据源/.f.metadata.json", "documents/entity/默认数据源/.f.json", "documents/ref-object/KNXIO3J7.json", "documents/ref-object/KNXIO3J7.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "KNXIO3J7"
 }, {
@@ -238,7 +250,13 @@
 }, {
   "moduleType" : "entity-relation",
   "moduleName" : "默认数据源",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity-relation/默认数据源", "documents/entity-relation/默认数据源/.f.metadata.json", "documents/entity-relation/默认数据源/.f.json", "documents/ref-object/VQD89MNT.json", "documents/ref-object/VQD89MNT.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "VQD89MNT"
 }, {
@@ -292,7 +310,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
@@ -317,14 +341,26 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "H6CQTVEY",
   "exclusiveType" : "AKSYQ39I"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体3",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体3.json", "documents/entity/默认数据源/实体3.metadata.json", "documents/entity/默认数据源/实体3.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "XJKYYKJT",
   "exclusiveType" : "AKSYQ39I"
@@ -370,4 +406,79 @@
   "resourcePaths" : [ "documents/entity/postgres11/实体2.json", "documents/entity/postgres11/实体2.metadata.json", "documents/entity/postgres11/实体2.refId.json", "documents/ref-object/SA0C2WMH.json", "documents/ref-object/SA0C2WMH.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "SA0C2WMH"
+}, {
+  "moduleType" : "datasource",
+  "moduleName" : "默认数据源aaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4807102Z",
+  "resourcePaths" : [ "documents/datasource/默认数据源aaa.json", "documents/datasource/默认数据源aaa.metadata.json", "documents/datasource/默认数据源aaa.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AKSYQ39I"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源aaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源aaa", "documents/entity/默认数据源aaa/.f.metadata.json", "documents/entity/默认数据源aaa/.f.json", "documents/ref-object/KNXIO3J7.json", "documents/ref-object/KNXIO3J7.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "KNXIO3J7"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源aaa/实体1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源aaa/实体1.json", "documents/entity/默认数据源aaa/实体1.metadata.json", "documents/entity/默认数据源aaa/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JKYNEF05",
+  "exclusiveType" : "AKSYQ39I"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源aaa/实体2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源aaa/实体2.json", "documents/entity/默认数据源aaa/实体2.metadata.json", "documents/entity/默认数据源aaa/实体2.refId.json", "documents/ref-object/H6CQTVEY.json", "documents/ref-object/H6CQTVEY.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "H6CQTVEY",
+  "exclusiveType" : "AKSYQ39I"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源aaa/实体3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity/默认数据源aaa/实体3.json", "documents/entity/默认数据源aaa/实体3.metadata.json", "documents/entity/默认数据源aaa/实体3.refId.json", "documents/ref-object/XJKYYKJT.json", "documents/ref-object/XJKYYKJT.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "XJKYYKJT",
+  "exclusiveType" : "AKSYQ39I"
+}, {
+  "moduleType" : "entity-relation",
+  "moduleName" : "默认数据源aaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:23:07.4822383Z",
+  "resourcePaths" : [ "documents/entity-relation/默认数据源aaa", "documents/entity-relation/默认数据源aaa/.f.metadata.json", "documents/entity-relation/默认数据源aaa/.f.json", "documents/ref-object/VQD89MNT.json", "documents/ref-object/VQD89MNT.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "VQD89MNT"
 } ]
