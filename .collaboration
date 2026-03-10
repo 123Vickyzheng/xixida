@@ -496,4 +496,16 @@
   "resourcePaths" : [ "documents/page/PC/文件夹222/页面2.json", "documents/page/PC/文件夹222/页面2.metadata.json", "documents/page/PC/文件夹222/页面2.refId.json", "documents/ref-object/M5CS97DI.json", "documents/ref-object/M5CS97DI.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "M5CS97DI"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/文件夹222/页面3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:52:13.4656006Z",
+  "resourcePaths" : [ "documents/page/PC/文件夹222/页面3.json", "documents/page/PC/文件夹222/页面3.metadata.json", "documents/page/PC/文件夹222/页面3.refId.json", "documents/ref-object/AJZV2WWI.json", "documents/ref-object/AJZV2WWI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AJZV2WWI"
 } ]
