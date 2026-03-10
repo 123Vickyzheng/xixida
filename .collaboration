@@ -439,7 +439,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa/页面1",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:50:03.4376815Z",
+  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面1.json", "documents/page/PC/aaaaaaaaaa/页面1.metadata.json", "documents/page/PC/aaaaaaaaaa/页面1.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "CZFJ2CI4"
 }, {
