@@ -448,4 +448,16 @@
   "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面2.json", "documents/page/PC/aaaaaaaaaa/页面2.metadata.json", "documents/page/PC/aaaaaaaaaa/页面2.refId.json", "documents/ref-object/PY4U48FL.json", "documents/ref-object/PY4U48FL.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "PY4U48FL"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/aaaaaaaaaa/页面3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:38:09.7590714Z",
+  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面3.json", "documents/page/PC/aaaaaaaaaa/页面3.metadata.json", "documents/page/PC/aaaaaaaaaa/页面3.refId.json", "documents/ref-object/CV8LNKGA.json", "documents/ref-object/CV8LNKGA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CV8LNKGA"
 } ]
