@@ -137,5 +137,41 @@
     "isBuiltIn" : false,
     "columnKind" : "physical",
     "isAutoIncrement" : false
+  }, {
+    "id" : "V3C66Q21",
+    "columnName" : "phx_created_at",
+    "name" : "phx_created_at",
+    "dataType" : null,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "F7ANWN2E",
+    "columnName" : "phx_updated_at",
+    "name" : "phx_updated_at",
+    "dataType" : null,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "CTJZ3PBQ",
+    "columnName" : "phx_created_by",
+    "name" : "phx_created_by",
+    "dataType" : null,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
+  }, {
+    "id" : "UARKTFE5",
+    "columnName" : "phx_updated_by",
+    "name" : "phx_updated_by",
+    "dataType" : null,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "columnKind" : "physical",
+    "isAutoIncrement" : false
   } ]
 }

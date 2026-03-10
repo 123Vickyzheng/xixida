@@ -1,0 +1,11 @@
+{
+  "id" : "J5URP57X",
+  "name" : "页面2",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "pc"
+}
