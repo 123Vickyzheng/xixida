@@ -1,0 +1,41 @@
+{
+  "id" : "UON5KDUZ",
+  "name" : "数据结构1",
+  "kind" : "Structure",
+  "properties" : [ {
+    "id" : "R3PX0JGJ",
+    "name" : "属性1",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "description" : ""
+  }, {
+    "id" : "P9C2EL3T",
+    "name" : "属性2",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "description" : ""
+  }, {
+    "id" : "YNC0BSDH",
+    "name" : "属性3",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "description" : ""
+  }, {
+    "id" : "MZBEIQ6V",
+    "name" : "属性4",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "description" : ""
+  }, {
+    "id" : "W37HJCVP",
+    "name" : "属性5",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "description" : ""
+  } ]
+}
