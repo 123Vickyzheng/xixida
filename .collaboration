@@ -304,7 +304,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体3",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:01:05.7119217Z",
+  "resourcePaths" : [ "documents/entity/postgres11/实体3.json", "documents/entity/postgres11/实体3.metadata.json", "documents/entity/postgres11/实体3.refId.json", "documents/ref-object/GC1Y3G10.json", "documents/ref-object/GC1Y3G10.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "GC1Y3G10"
 }, {
@@ -328,7 +334,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:01:05.7119217Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
@@ -359,7 +371,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:01:05.7119217Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "H6CQTVEY",
   "exclusiveType" : "AKSYQ39I"
@@ -376,4 +394,16 @@
   "resourceType" : "Document",
   "resourceId" : "XJKYYKJT",
   "exclusiveType" : "AKSYQ39I"
+}, {
+  "moduleType" : "type",
+  "moduleName" : "数据结构/数据结构1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:01:05.7119217Z",
+  "resourcePaths" : [ "documents/type/数据结构/数据结构1.json", "documents/type/数据结构/数据结构1.metadata.json", "documents/type/数据结构/数据结构1.refId.json", "documents/ref-object/UON5KDUZ.json", "documents/ref-object/UON5KDUZ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UON5KDUZ"
 } ]
