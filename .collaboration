@@ -283,4 +283,40 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "EY92AY13"
+}, {
+  "moduleType" : "datasource",
+  "moduleName" : "postgres",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T07:05:51.8172751Z",
+  "resourcePaths" : [ "documents/datasource/postgres.json", "documents/datasource/postgres.metadata.json", "documents/datasource/postgres.refId.json", "documents/ref-object/QAU1UHAM.json", "documents/ref-object/QAU1UHAM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "QAU1UHAM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "postgres",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T07:05:51.8188649Z",
+  "resourcePaths" : [ "documents/entity/postgres", "documents/entity/postgres/.f.metadata.json", "documents/entity/postgres/.f.json", "documents/ref-object/KCUXLRZQ.json", "documents/ref-object/KCUXLRZQ.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "KCUXLRZQ"
+}, {
+  "moduleType" : "entity-relation",
+  "moduleName" : "postgres",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T07:05:51.8219885Z",
+  "resourcePaths" : [ "documents/entity-relation/postgres", "documents/entity-relation/postgres/.f.metadata.json", "documents/entity-relation/postgres/.f.json", "documents/ref-object/UH6AUYC6.json", "documents/ref-object/UH6AUYC6.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "UH6AUYC6"
 } ]
