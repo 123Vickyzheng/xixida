@@ -1,13 +1,7 @@
 [ {
   "moduleType" : "applicationConfig",
   "moduleName" : "app.pxproj",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:02:35.6966666Z",
-  "resourcePaths" : [ "app.pxproj" ],
+  "state" : "Unlocked",
   "resourceType" : "File"
 }, {
   "moduleType" : "attachment",
@@ -353,25 +347,13 @@
 }, {
   "moduleType" : "theme",
   "moduleName" : "清新主题 (2)",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:04:17.7992891Z",
-  "resourcePaths" : [ "documents/theme/清新主题 (2).json", "documents/theme/清新主题 (2).metadata.json", "documents/theme/清新主题 (2).refId.json", "documents/ref-object/MGJ2K3QD.json", "documents/ref-object/MGJ2K3QD.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MGJ2K3QD"
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/aaaa",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:04:59.5945289Z",
-  "resourcePaths" : [ "documents/page/移动端/aaaa.json", "documents/page/移动端/aaaa.metadata.json", "documents/page/移动端/aaaa.refId.json", "documents/ref-object/JC75AAZ3.json", "documents/ref-object/JC75AAZ3.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JC75AAZ3"
 } ]
