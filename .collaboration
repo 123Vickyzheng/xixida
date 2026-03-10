@@ -350,4 +350,16 @@
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
+}, {
+  "moduleType" : "theme",
+  "moduleName" : "自定义主题aaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:02:48.6981588Z",
+  "resourcePaths" : [ "documents/theme/自定义主题aaa.json", "documents/theme/自定义主题aaa.metadata.json", "documents/theme/自定义主题aaa.refId.json", "documents/ref-object/T7IKQ7VY.json", "documents/ref-object/T7IKQ7VY.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "T7IKQ7VY"
 } ]
