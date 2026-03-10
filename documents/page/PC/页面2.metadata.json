@@ -3,7 +3,20 @@
   "name" : "页面2",
   "resourceType" : "page",
   "description" : "",
-  "variables" : [ ],
+  "variables" : [ {
+    "id" : "B72Z7E5H",
+    "name" : "变量1",
+    "defaultValue" : {
+      "type" : "literal"
+    },
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "Y613TXH4"
+      } ]
+    },
+    "description" : ""
+  } ],
   "logics" : [ ],
   "eventListeners" : [ ],
   "elementEventListeners" : [ ],
