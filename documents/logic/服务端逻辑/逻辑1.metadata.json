@@ -1,0 +1,9 @@
+{
+  "id" : "TG5OXPST",
+  "name" : "逻辑1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ ]
+}

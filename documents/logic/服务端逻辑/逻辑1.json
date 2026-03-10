@@ -1,0 +1,42 @@
+{
+  "id" : "TG5OXPST",
+  "name" : "逻辑1",
+  "variables" : [ ],
+  "parameters" : [ ],
+  "returnValues" : [ ],
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "CNJGUKDR",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 80,
+          "y" : 200
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "BXF2HJVB",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 800,
+          "y" : 200
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "S50O5VY2",
+      "sourceId" : "CNJGUKDR",
+      "targetId" : "BXF2HJVB",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}
