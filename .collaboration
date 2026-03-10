@@ -268,13 +268,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "mysql84/testvant",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:56:30.8186798Z",
-  "resourcePaths" : [ "documents/entity/mysql84/testvant.json", "documents/entity/mysql84/testvant.metadata.json", "documents/entity/mysql84/testvant.refId.json", "documents/ref-object/ZPOH0Y87.json", "documents/ref-object/ZPOH0Y87.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "ZPOH0Y87"
 }, {
@@ -292,121 +286,61 @@
 }, {
   "moduleType" : "datasource",
   "moduleName" : "postgres11",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:49:29.1583845Z",
-  "resourcePaths" : [ "documents/datasource/postgres11.json", "documents/datasource/postgres11.metadata.json", "documents/datasource/postgres11.refId.json", "documents/ref-object/VCI0O69Y.json", "documents/ref-object/VCI0O69Y.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "VCI0O69Y"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:49:29.1583845Z",
-  "resourcePaths" : [ "documents/entity/postgres11", "documents/entity/postgres11/.f.metadata.json", "documents/entity/postgres11/.f.json", "documents/ref-object/HGQ5H2ST.json", "documents/ref-object/HGQ5H2ST.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "HGQ5H2ST"
 }, {
   "moduleType" : "entity-relation",
   "moduleName" : "postgres11",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:49:29.1583845Z",
-  "resourcePaths" : [ "documents/entity-relation/postgres11", "documents/entity-relation/postgres11/.f.metadata.json", "documents/entity-relation/postgres11/.f.json", "documents/ref-object/I1BEFYY4.json", "documents/ref-object/I1BEFYY4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "I1BEFYY4"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体3",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:52:11.6466839Z",
-  "resourcePaths" : [ "documents/entity/postgres11/实体3.json", "documents/entity/postgres11/实体3.metadata.json", "documents/entity/postgres11/实体3.refId.json", "documents/ref-object/GC1Y3G10.json", "documents/ref-object/GC1Y3G10.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GC1Y3G10"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/aaa",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:52:11.6466839Z",
-  "resourcePaths" : [ "documents/entity/postgres11/aaa.json", "documents/entity/postgres11/aaa.metadata.json", "documents/entity/postgres11/aaa.refId.json", "documents/ref-object/Y613TXH4.json", "documents/ref-object/Y613TXH4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "Y613TXH4"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/aaaa",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:52:11.6466839Z",
-  "resourcePaths" : [ "documents/entity/postgres11/aaaa.json", "documents/entity/postgres11/aaaa.metadata.json", "documents/entity/postgres11/aaaa.refId.json", "documents/ref-object/VWSIMSND.json", "documents/ref-object/VWSIMSND.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "VWSIMSND"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/各字段",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:52:11.6466839Z",
-  "resourcePaths" : [ "documents/entity/postgres11/各字段.json", "documents/entity/postgres11/各字段.metadata.json", "documents/entity/postgres11/各字段.refId.json", "documents/ref-object/MKJKFZKC.json", "documents/ref-object/MKJKFZKC.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MKJKFZKC"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:52:11.647221Z",
-  "resourcePaths" : [ "documents/entity/postgres11/实体1.json", "documents/entity/postgres11/实体1.metadata.json", "documents/entity/postgres11/实体1.refId.json", "documents/ref-object/N5Y2RSKK.json", "documents/ref-object/N5Y2RSKK.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "N5Y2RSKK"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:52:11.647221Z",
-  "resourcePaths" : [ "documents/entity/postgres11/实体2.json", "documents/entity/postgres11/实体2.metadata.json", "documents/entity/postgres11/实体2.refId.json", "documents/ref-object/P9SU5339.json", "documents/ref-object/P9SU5339.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "P9SU5339"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T07:58:09.4120514Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
