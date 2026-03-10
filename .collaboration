@@ -346,4 +346,28 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "MME16HGZ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "postgres11/实体1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:22:10.4195639Z",
+  "resourcePaths" : [ "documents/entity/postgres11/实体1.json", "documents/entity/postgres11/实体1.metadata.json", "documents/entity/postgres11/实体1.refId.json", "documents/ref-object/FPQ29D67.json", "documents/ref-object/FPQ29D67.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FPQ29D67"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "postgres11/实体2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:22:10.4195639Z",
+  "resourcePaths" : [ "documents/entity/postgres11/实体2.json", "documents/entity/postgres11/实体2.metadata.json", "documents/entity/postgres11/实体2.refId.json", "documents/ref-object/SA0C2WMH.json", "documents/ref-object/SA0C2WMH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "SA0C2WMH"
 } ]
