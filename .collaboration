@@ -376,4 +376,16 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "UON5KDUZ"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "计划任务/计划任务1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:24:56.7493288Z",
+  "resourcePaths" : [ "documents/logic/计划任务/计划任务1.json", "documents/logic/计划任务/计划任务1.metadata.json", "documents/logic/计划任务/计划任务1.refId.json", "documents/ref-object/O1LY08YR.json", "documents/ref-object/O1LY08YR.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "O1LY08YR"
 } ]
