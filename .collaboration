@@ -160,13 +160,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:10:26.2379278Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面", "documents/page/PC/系统页面/.f.metadata.json", "documents/page/PC/系统页面/.f.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "GG2ZYIZM"
 }, {
