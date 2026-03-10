@@ -328,7 +328,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体1",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:10:10.4065061Z",
+  "resourcePaths" : [ "documents/entity/postgres11/实体1.json", "documents/entity/postgres11/实体1.metadata.json", "documents/entity/postgres11/实体1.refId.json", "documents/ref-object/N5Y2RSKK.json", "documents/ref-object/N5Y2RSKK.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "N5Y2RSKK"
 }, {
