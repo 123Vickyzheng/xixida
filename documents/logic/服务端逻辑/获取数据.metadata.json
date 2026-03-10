@@ -1,0 +1,21 @@
+{
+  "id" : "G3VNR5X8",
+  "name" : "获取数据",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "UY4XP3P2",
+    "name" : "返回的数据信息",
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "ZPOH0Y87"
+      } ]
+    },
+    "defaultValue" : {
+      "type" : "literal"
+    }
+  } ]
+}

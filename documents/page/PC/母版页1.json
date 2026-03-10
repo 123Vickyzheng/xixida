@@ -1,0 +1,94 @@
+{
+  "id" : "VMEEBA4N",
+  "name" : "母版页1",
+  "rootElement" : {
+    "id" : "L5XTOFCE",
+    "name" : "线性布局",
+    "type" : "linear-layout",
+    "pluginName" : "component-common",
+    "styles" : [ {
+      "pseudo" : "none",
+      "target" : "root",
+      "cssProperties" : [ {
+        "name" : "size",
+        "type" : "literal",
+        "literal" : {
+          "width" : "",
+          "height" : "100%",
+          "minWidth" : "",
+          "minHeight" : "",
+          "maxWidth" : "",
+          "maxHeight" : ""
+        }
+      }, {
+        "name" : "position",
+        "type" : "literal",
+        "literal" : "relative"
+      }, {
+        "name" : "border",
+        "type" : "literal",
+        "literal" : { }
+      }, {
+        "name" : "backgroundColor",
+        "type" : "literal",
+        "literal" : "hsla(var(--color-primary-h), var(--color-primary-s), calc(var(--color-primary-l) + (100% - var(--color-primary-l)) * max(0, 0.6) + var(--color-primary-l) * min(0, 0.6)), var(--color-primary-a))"
+      } ]
+    } ],
+    "events" : [ ],
+    "properties" : [ {
+      "name" : "enableCustomLoading",
+      "type" : "literal",
+      "literal" : ""
+    }, {
+      "name" : "loading",
+      "type" : "literal",
+      "literal" : ""
+    } ],
+    "children" : [ {
+      "id" : "POIH98PR",
+      "name" : "子页面占位",
+      "type" : "subpage",
+      "pluginName" : "component-common",
+      "styles" : [ {
+        "pseudo" : "none",
+        "target" : "root",
+        "cssProperties" : [ {
+          "name" : "position",
+          "type" : "literal",
+          "literal" : "relative"
+        }, {
+          "name" : "border",
+          "type" : "literal",
+          "literal" : { }
+        } ]
+      } ],
+      "events" : [ ],
+      "properties" : [ {
+        "name" : "enableCustomLoading",
+        "type" : "literal",
+        "literal" : ""
+      }, {
+        "name" : "loading",
+        "type" : "literal",
+        "literal" : ""
+      } ],
+      "children" : [ ],
+      "description" : "",
+      "visible" : {
+        "type" : "expression",
+        "expression" : ""
+      }
+    } ],
+    "description" : "",
+    "visible" : {
+      "type" : "expression",
+      "expression" : ""
+    }
+  },
+  "platform" : "pc",
+  "variables" : [ ],
+  "logics" : [ ],
+  "events" : [ ],
+  "description" : "",
+  "type" : "masterPage"
+}

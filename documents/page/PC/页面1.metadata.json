@@ -1,0 +1,26 @@
+{
+  "id" : "X1NF89YR",
+  "name" : "页面1",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ {
+    "id" : "SP4YHEB6",
+    "name" : "变量1",
+    "defaultValue" : {
+      "type" : "literal"
+    },
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "ZPOH0Y87"
+      } ]
+    },
+    "description" : ""
+  } ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "pc",
+  "masterId" : "VMEEBA4N",
+  "linkedPageId" : "T4VYVY5G"
+}

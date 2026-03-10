@@ -1,0 +1,11 @@
+{
+  "id" : "VMEEBA4N",
+  "name" : "母版页1",
+  "resourceType" : "masterPage",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "pc"
+}

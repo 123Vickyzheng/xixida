@@ -1,0 +1,14 @@
+{
+  "id" : "AB5D1UE6",
+  "name" : "获取登录配置",
+  "description" : "",
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "QCD7JF24",
+    "name" : "config",
+    "dataType" : {
+      "typeId" : "Auto"
+    }
+  } ]
+}

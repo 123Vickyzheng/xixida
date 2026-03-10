@@ -1,0 +1,32 @@
+{
+  "id" : "T4VYVY5G",
+  "name" : "页面1",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ {
+    "id" : "Z6DGBL7U",
+    "name" : "表格各字段",
+    "defaultValue" : {
+      "type" : "literal"
+    },
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "ZPOH0Y87"
+      } ]
+    },
+    "description" : ""
+  } ],
+  "logics" : [ ],
+  "eventListeners" : [ {
+    "id" : "LYTFIV72",
+    "name" : "页面加载前1",
+    "variables" : [ ],
+    "parameters" : [ ],
+    "returnValues" : [ ],
+    "targetEvent" : "enter"
+  } ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile",
+  "masterId" : "UMCYMA5M"
+}
