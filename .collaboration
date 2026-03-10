@@ -304,13 +304,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体3",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:45:15.2669126Z",
-  "resourcePaths" : [ "documents/entity/postgres11/实体3.json", "documents/entity/postgres11/实体3.metadata.json", "documents/entity/postgres11/实体3.refId.json", "documents/ref-object/GC1Y3G10.json", "documents/ref-object/GC1Y3G10.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GC1Y3G10"
 }, {
@@ -334,13 +328,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:45:15.2669126Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
@@ -353,13 +341,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/aaaa",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:45:15.2669126Z",
-  "resourcePaths" : [ "documents/page/移动端/aaaa.json", "documents/page/移动端/aaaa.metadata.json", "documents/page/移动端/aaaa.refId.json", "documents/ref-object/JC75AAZ3.json", "documents/ref-object/JC75AAZ3.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JC75AAZ3"
 }, {
@@ -377,26 +359,14 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:45:15.2669126Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "H6CQTVEY",
   "exclusiveType" : "AKSYQ39I"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体3",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:45:15.2669126Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体3.json", "documents/entity/默认数据源/实体3.metadata.json", "documents/entity/默认数据源/实体3.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "XJKYYKJT",
   "exclusiveType" : "AKSYQ39I"
@@ -427,25 +397,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:49:36.0363624Z",
-  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa", "documents/page/PC/aaaaaaaaaa/.f.metadata.json", "documents/page/PC/aaaaaaaaaa/.f.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "RCNTUKA0"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa/页面1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:50:03.4376815Z",
-  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面1.json", "documents/page/PC/aaaaaaaaaa/页面1.metadata.json", "documents/page/PC/aaaaaaaaaa/页面1.refId.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "CZFJ2CI4"
 }, {
@@ -463,49 +421,25 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/文件夹222",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:51:43.8055776Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222", "documents/page/PC/文件夹222/.f.metadata.json", "documents/page/PC/文件夹222/.f.json", "documents/ref-object/GKFS9I9I.json", "documents/ref-object/GKFS9I9I.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "GKFS9I9I"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/文件夹222/页面1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:51:53.559089Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222/页面1.json", "documents/page/PC/文件夹222/页面1.metadata.json", "documents/page/PC/文件夹222/页面1.refId.json", "documents/ref-object/LTBAZ08F.json", "documents/ref-object/LTBAZ08F.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "LTBAZ08F"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/文件夹222/页面2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:52:03.7591997Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222/页面2.json", "documents/page/PC/文件夹222/页面2.metadata.json", "documents/page/PC/文件夹222/页面2.refId.json", "documents/ref-object/M5CS97DI.json", "documents/ref-object/M5CS97DI.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "M5CS97DI"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/文件夹222/页面3",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:52:13.4656006Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222/页面3.json", "documents/page/PC/文件夹222/页面3.metadata.json", "documents/page/PC/文件夹222/页面3.refId.json", "documents/ref-object/AJZV2WWI.json", "documents/ref-object/AJZV2WWI.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "AJZV2WWI"
 } ]
