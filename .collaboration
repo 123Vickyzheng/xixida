@@ -190,7 +190,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/登录页",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:53:27.4853922Z",
+  "resourcePaths" : [ "documents/page/PC/系统页面/登录页.json", "documents/page/PC/系统页面/登录页.metadata.json", "documents/page/PC/系统页面/登录页.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "K8Q8IRQI"
 }, {
