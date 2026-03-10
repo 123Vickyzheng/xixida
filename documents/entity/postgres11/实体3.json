@@ -13,10 +13,10 @@
     "dataType" : {
       "typeId" : "Integer"
     },
-    "dbType" : "INTEGER",
+    "dbType" : "INT4",
     "jdbcType" : 4,
-    "columnLength" : 2000000000,
-    "precision" : 2000000000,
+    "columnLength" : null,
+    "precision" : 10,
     "scale" : 0,
     "isPrimaryKey" : true,
     "isUnique" : true,
@@ -118,16 +118,16 @@
     "dataType" : {
       "typeId" : "DateTime"
     },
-    "dbType" : "TEXT",
+    "dbType" : "TIMESTAMPTZ",
     "jdbcType" : 2014,
-    "columnLength" : 2000000000,
-    "precision" : 2000000000,
-    "scale" : 0,
+    "columnLength" : null,
+    "precision" : 35,
+    "scale" : 6,
     "isPrimaryKey" : false,
     "isUnique" : false,
     "isRequired" : true,
     "isBuiltIn" : true,
-    "defaultValue" : "NOW",
+    "defaultValue" : "CURRENT_TIMESTAMP",
     "isAutoIncrement" : false,
     "columnKind" : "physical",
     "width" : 180
@@ -139,16 +139,16 @@
     "dataType" : {
       "typeId" : "DateTime"
     },
-    "dbType" : "TEXT",
+    "dbType" : "TIMESTAMPTZ",
     "jdbcType" : 2014,
-    "columnLength" : 2000000000,
-    "precision" : 2000000000,
-    "scale" : 0,
+    "columnLength" : null,
+    "precision" : 35,
+    "scale" : 6,
     "isPrimaryKey" : false,
     "isUnique" : false,
     "isRequired" : true,
     "isBuiltIn" : true,
-    "defaultValue" : "NOW",
+    "defaultValue" : "CURRENT_TIMESTAMP",
     "isAutoIncrement" : false,
     "columnKind" : "physical",
     "width" : 180
@@ -161,7 +161,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "columnLength" : 2000000000,
     "precision" : 2000000000,
     "scale" : 0,
@@ -182,7 +181,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "columnLength" : 2000000000,
     "precision" : 2000000000,
     "scale" : 0,

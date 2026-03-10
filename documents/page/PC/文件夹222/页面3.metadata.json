@@ -1,0 +1,11 @@
+{
+  "id" : "AJZV2WWI",
+  "name" : "页面3",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "pc"
+}

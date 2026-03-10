@@ -13,7 +13,6 @@
       "typeId" : "Integer"
     },
     "dbType" : "INTEGER",
-    "jdbcType" : 4,
     "width" : 100,
     "isPrimaryKey" : true,
     "isRequired" : true,
@@ -34,7 +33,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isRequired" : false,
     "isPrimaryKey" : false,
@@ -55,7 +53,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isRequired" : false,
     "isPrimaryKey" : false,
@@ -76,7 +73,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isRequired" : false,
     "isPrimaryKey" : false,
@@ -97,7 +93,6 @@
       "typeId" : "DateTime"
     },
     "dbType" : "TEXT",
-    "jdbcType" : 2014,
     "width" : 180,
     "isPrimaryKey" : false,
     "isRequired" : true,
@@ -118,7 +113,6 @@
       "typeId" : "DateTime"
     },
     "dbType" : "TEXT",
-    "jdbcType" : 2014,
     "width" : 180,
     "isPrimaryKey" : false,
     "isRequired" : true,
@@ -139,7 +133,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isPrimaryKey" : false,
     "isRequired" : false,
@@ -160,7 +153,6 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isPrimaryKey" : false,
     "isRequired" : false,
