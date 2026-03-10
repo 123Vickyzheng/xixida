@@ -427,7 +427,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:49:36.0363624Z",
+  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa", "documents/page/PC/aaaaaaaaaa/.f.metadata.json", "documents/page/PC/aaaaaaaaaa/.f.json" ],
   "resourceType" : "Folder",
   "resourceId" : "RCNTUKA0"
 }, {
