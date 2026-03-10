@@ -159,66 +159,6 @@
   "resourceId" : "VMEEBA4N"
 }, {
   "moduleType" : "page",
-  "moduleName" : "PC/系统页面",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面", "documents/page/PC/系统页面/.f.metadata.json", "documents/page/PC/系统页面/.f.json", "documents/ref-object/GG2ZYIZM.json", "documents/ref-object/GG2ZYIZM.metadata.json" ],
-  "resourceType" : "Folder",
-  "resourceId" : "GG2ZYIZM"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面/401无权限页面",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面/401无权限页面.json", "documents/page/PC/系统页面/401无权限页面.metadata.json", "documents/page/PC/系统页面/401无权限页面.refId.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "EEXUTYGQ"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面/404未发现页面",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面/404未发现页面.json", "documents/page/PC/系统页面/404未发现页面.metadata.json", "documents/page/PC/系统页面/404未发现页面.refId.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "VD7OXOM2"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/系统页面/登录页",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面/登录页.json", "documents/page/PC/系统页面/登录页.metadata.json", "documents/page/PC/系统页面/登录页.refId.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "K8Q8IRQI"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/页面1",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/页面1.json", "documents/page/PC/页面1.metadata.json", "documents/page/PC/页面1.refId.json", "documents/ref-object/X1NF89YR.json", "documents/ref-object/X1NF89YR.metadata.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "X1NF89YR"
-}, {
-  "moduleType" : "page",
   "moduleName" : "移动端",
   "state" : "Unlocked",
   "resourceType" : "Folder",
@@ -241,18 +181,6 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "T4VYVY5G"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "移动端/页面组件",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:54.1280129Z",
-  "resourcePaths" : [ "documents/page/移动端/页面组件", "documents/page/移动端/页面组件/.f.metadata.json", "documents/page/移动端/页面组件/.f.json", "documents/ref-object/XY7A94PQ.json", "documents/ref-object/XY7A94PQ.metadata.json" ],
-  "resourceType" : "Folder",
-  "resourceId" : "XY7A94PQ"
 }, {
   "moduleType" : "type",
   "moduleName" : "枚举",
@@ -340,13 +268,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体3",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/entity/postgres11/实体3.json", "documents/entity/postgres11/实体3.metadata.json", "documents/entity/postgres11/实体3.refId.json", "documents/ref-object/GC1Y3G10.json", "documents/ref-object/GC1Y3G10.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GC1Y3G10"
 }, {
@@ -370,13 +292,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
@@ -386,18 +302,6 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MGJ2K3QD"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "移动端/aaaa",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:54.1264625Z",
-  "resourcePaths" : [ "documents/page/移动端/aaaa.json", "documents/page/移动端/aaaa.metadata.json", "documents/page/移动端/aaaa.refId.json", "documents/ref-object/JC75AAZ3.json", "documents/ref-object/JC75AAZ3.metadata.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "JC75AAZ3"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面2",
@@ -413,26 +317,14 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "H6CQTVEY",
   "exclusiveType" : "AKSYQ39I"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体3",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体3.json", "documents/entity/默认数据源/实体3.metadata.json", "documents/entity/默认数据源/实体3.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "XJKYYKJT",
   "exclusiveType" : "AKSYQ39I"
@@ -454,64 +346,4 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "MME16HGZ"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "移动端/businessComponent",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:54.1280129Z",
-  "resourcePaths" : [ "documents/page/移动端/businessComponent.json", "documents/page/移动端/businessComponent.metadata.json", "documents/page/移动端/businessComponent.refId.json", "documents/ref-object/MK5DF4SO.json", "documents/ref-object/MK5DF4SO.metadata.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "MK5DF4SO"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/文件夹222",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222", "documents/page/PC/文件夹222/.f.metadata.json", "documents/page/PC/文件夹222/.f.json", "documents/ref-object/GKFS9I9I.json", "documents/ref-object/GKFS9I9I.metadata.json" ],
-  "resourceType" : "Folder",
-  "resourceId" : "GKFS9I9I"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/文件夹222/页面1",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222/页面1.json", "documents/page/PC/文件夹222/页面1.metadata.json", "documents/page/PC/文件夹222/页面1.refId.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "LTBAZ08F"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/文件夹222/页面2",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222/页面2.json", "documents/page/PC/文件夹222/页面2.metadata.json", "documents/page/PC/文件夹222/页面2.refId.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "M5CS97DI"
-}, {
-  "moduleType" : "page",
-  "moduleName" : "PC/文件夹222/页面3",
-  "state" : "Remove",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-10T10:17:21.6547258Z",
-  "resourcePaths" : [ "documents/page/PC/文件夹222/页面3.json", "documents/page/PC/文件夹222/页面3.metadata.json", "documents/page/PC/文件夹222/页面3.refId.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "AJZV2WWI"
 } ]
