@@ -350,4 +350,16 @@
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
+}, {
+  "moduleType" : "theme",
+  "moduleName" : "清新主题 (2)",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:04:17.7992891Z",
+  "resourcePaths" : [ "documents/theme/清新主题 (2).json", "documents/theme/清新主题 (2).metadata.json", "documents/theme/清新主题 (2).refId.json", "documents/ref-object/MGJ2K3QD.json", "documents/ref-object/MGJ2K3QD.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MGJ2K3QD"
 } ]
