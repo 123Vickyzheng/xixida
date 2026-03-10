@@ -268,7 +268,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "mysql84/testvant",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T07:06:25.9214188Z",
+  "resourcePaths" : [ "documents/entity/mysql84/testvant.json", "documents/entity/mysql84/testvant.metadata.json", "documents/entity/mysql84/testvant.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "ZPOH0Y87"
 }, {
