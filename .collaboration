@@ -148,7 +148,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:47:32.950058Z",
+  "resourcePaths" : [ "documents/page/PC", "documents/page/PC/.f.metadata.json", "documents/page/PC/.f.json" ],
   "resourceType" : "Folder",
   "resourceId" : "O312UT8M"
 }, {
