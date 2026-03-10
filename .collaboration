@@ -334,13 +334,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:18:11.8099297Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
@@ -365,13 +359,7 @@
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/逻辑1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:18:11.8099297Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑1.json", "documents/logic/服务端逻辑/逻辑1.metadata.json", "documents/logic/服务端逻辑/逻辑1.refId.json", "documents/ref-object/TG5OXPST.json", "documents/ref-object/TG5OXPST.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "TG5OXPST"
 } ]
