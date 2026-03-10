@@ -343,4 +343,16 @@
   "resourcePaths" : [ "documents/entity/postgres1/文件夹1", "documents/entity/postgres1/文件夹1/.f.metadata.json", "documents/entity/postgres1/文件夹1/.f.json", "documents/ref-object/MUX9XYBM.json", "documents/ref-object/MUX9XYBM.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "MUX9XYBM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "postgres1/文件夹1/aaaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T07:41:40.8637287Z",
+  "resourcePaths" : [ "documents/entity/postgres1/文件夹1/aaaa.json", "documents/entity/postgres1/文件夹1/aaaa.metadata.json", "documents/entity/postgres1/文件夹1/aaaa.refId.json", "documents/ref-object/IIXE9ZRH.json", "documents/ref-object/IIXE9ZRH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "IIXE9ZRH"
 } ]
