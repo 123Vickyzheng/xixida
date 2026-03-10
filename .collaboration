@@ -397,4 +397,17 @@
   "resourcePaths" : [ "documents/entity/postgres11/实体2.json", "documents/entity/postgres11/实体2.metadata.json", "documents/entity/postgres11/实体2.refId.json", "documents/ref-object/P9SU5339.json", "documents/ref-object/P9SU5339.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "P9SU5339"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源/实体1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T07:58:09.4120514Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JKYNEF05.json", "documents/ref-object/JKYNEF05.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JKYNEF05",
+  "exclusiveType" : "AKSYQ39I"
 } ]
