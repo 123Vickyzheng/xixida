@@ -244,7 +244,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/页面组件",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:17:54.1280129Z",
+  "resourcePaths" : [ "documents/page/移动端/页面组件", "documents/page/移动端/页面组件/.f.metadata.json", "documents/page/移动端/页面组件/.f.json", "documents/ref-object/XY7A94PQ.json", "documents/ref-object/XY7A94PQ.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "XY7A94PQ"
 }, {
@@ -383,7 +389,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/aaaa",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:17:54.1264625Z",
+  "resourcePaths" : [ "documents/page/移动端/aaaa.json", "documents/page/移动端/aaaa.metadata.json", "documents/page/移动端/aaaa.refId.json", "documents/ref-object/JC75AAZ3.json", "documents/ref-object/JC75AAZ3.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "JC75AAZ3"
 }, {
@@ -445,7 +457,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/businessComponent",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-10T10:17:54.1280129Z",
+  "resourcePaths" : [ "documents/page/移动端/businessComponent.json", "documents/page/移动端/businessComponent.metadata.json", "documents/page/移动端/businessComponent.refId.json", "documents/ref-object/MK5DF4SO.json", "documents/ref-object/MK5DF4SO.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "MK5DF4SO"
 }, {
