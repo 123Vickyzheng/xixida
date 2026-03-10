@@ -4,6 +4,9 @@
   "ideVersion" : "0.0.1",
   "branchName" : "testph",
   "repoUrl" : "https://github.com/123Vickyzheng/xixida",
+  "theme-resources" : {
+    "currentTheme" : "phoenix.builtin.dark-night"
+  },
   "page" : {
     "defaultStartupPage" : "T4VYVY5G"
   }

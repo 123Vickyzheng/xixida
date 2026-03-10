@@ -1,0 +1,11 @@
+{
+  "id" : "JC75AAZ3",
+  "name" : "aaaa",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile"
+}
