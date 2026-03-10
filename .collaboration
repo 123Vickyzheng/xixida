@@ -1,13 +1,7 @@
 [ {
   "moduleType" : "applicationConfig",
   "moduleName" : "app.pxproj",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:29:14.4361334Z",
-  "resourcePaths" : [ "app.pxproj" ],
+  "state" : "Unlocked",
   "resourceType" : "File"
 }, {
   "moduleType" : "attachment",
@@ -347,13 +341,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/aaaa",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:29:47.1916915Z",
-  "resourcePaths" : [ "documents/page/移动端/aaaa.json", "documents/page/移动端/aaaa.metadata.json", "documents/page/移动端/aaaa.refId.json", "documents/ref-object/JC75AAZ3.json", "documents/ref-object/JC75AAZ3.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JC75AAZ3"
 }, {
@@ -403,61 +391,31 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/businessComponent",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:33:54.5226907Z",
-  "resourcePaths" : [ "documents/page/移动端/businessComponent.json", "documents/page/移动端/businessComponent.metadata.json", "documents/page/移动端/businessComponent.refId.json", "documents/ref-object/MK5DF4SO.json", "documents/ref-object/MK5DF4SO.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MK5DF4SO"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:36:47.1763424Z",
-  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa", "documents/page/PC/aaaaaaaaaa/.f.metadata.json", "documents/page/PC/aaaaaaaaaa/.f.json", "documents/ref-object/RCNTUKA0.json", "documents/ref-object/RCNTUKA0.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "RCNTUKA0"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa/页面1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:37:43.0927902Z",
-  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面1.json", "documents/page/PC/aaaaaaaaaa/页面1.metadata.json", "documents/page/PC/aaaaaaaaaa/页面1.refId.json", "documents/ref-object/CZFJ2CI4.json", "documents/ref-object/CZFJ2CI4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "CZFJ2CI4"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa/页面2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:37:56.4803984Z",
-  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面2.json", "documents/page/PC/aaaaaaaaaa/页面2.metadata.json", "documents/page/PC/aaaaaaaaaa/页面2.refId.json", "documents/ref-object/PY4U48FL.json", "documents/ref-object/PY4U48FL.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "PY4U48FL"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/aaaaaaaaaa/页面3",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T09:38:09.7590714Z",
-  "resourcePaths" : [ "documents/page/PC/aaaaaaaaaa/页面3.json", "documents/page/PC/aaaaaaaaaa/页面3.metadata.json", "documents/page/PC/aaaaaaaaaa/页面3.refId.json", "documents/ref-object/CV8LNKGA.json", "documents/ref-object/CV8LNKGA.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "CV8LNKGA"
 } ]
