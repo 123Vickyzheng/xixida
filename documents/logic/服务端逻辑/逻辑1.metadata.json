@@ -4,6 +4,18 @@
   "enableTransaction" : true,
   "allowExpressionCall" : false,
   "parameters" : [ ],
-  "variables" : [ ],
+  "variables" : [ {
+    "id" : "RTR7NMT3",
+    "name" : "变量1",
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "Y613TXH4"
+      } ]
+    },
+    "defaultValue" : {
+      "type" : "literal"
+    }
+  } ],
   "returnValues" : [ ]
 }

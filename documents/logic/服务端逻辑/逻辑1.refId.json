@@ -1,1 +1,16 @@
-{ }
+{
+  "Y613TXH4" : "aaa",
+  "RTR7NMT3" : "变量1",
+  "X7WAEVX2" : "id",
+  "QDWBWY6E" : "created_at",
+  "XD0A0AS5" : "updated_at",
+  "KIFVVTD6" : "created_by",
+  "CE5YQBLU" : "updated_by",
+  "N4ICZ8KB" : "Integer",
+  "TVV9A541" : "Decimal",
+  "TME4B1YD" : "Boolean",
+  "WUYQ44CA" : "String",
+  "RNOX95EL" : "Date",
+  "PRKHRTDL" : "Time",
+  "VCI0O69Y" : "postgres11"
+}
