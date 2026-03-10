@@ -1,0 +1,11 @@
+{
+  "id" : "PY4U48FL",
+  "name" : "页面2",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile"
+}

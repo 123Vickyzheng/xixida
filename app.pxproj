@@ -1,6 +1,6 @@
 {
   "projectType" : "Collaboration",
-  "appName" : "20260310_1",
+  "appName" : "20260310_1_副本2_副本1",
   "ideVersion" : "0.0.1",
   "branchName" : "testph",
   "repoUrl" : "https://github.com/123Vickyzheng/xixida",
@@ -8,6 +8,6 @@
     "currentTheme" : "phoenix.builtin.dark-night"
   },
   "page" : {
-    "defaultStartupPage" : "T4VYVY5G"
+    "defaultStartupPage" : ""
   }
 }
