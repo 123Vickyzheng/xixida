@@ -374,4 +374,16 @@
   "resourcePaths" : [ "documents/theme/自定义主题.json", "documents/theme/自定义主题.metadata.json", "documents/theme/自定义主题.refId.json", "documents/ref-object/SKEX2J6K.json", "documents/ref-object/SKEX2J6K.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "SKEX2J6K"
+}, {
+  "moduleType" : "theme",
+  "moduleName" : "自定义主题 (2)",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:03:07.7356643Z",
+  "resourcePaths" : [ "documents/theme/自定义主题 (2).json", "documents/theme/自定义主题 (2).metadata.json", "documents/theme/自定义主题 (2).refId.json", "documents/ref-object/EFIWZXAC.json", "documents/ref-object/EFIWZXAC.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EFIWZXAC"
 } ]
