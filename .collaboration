@@ -148,13 +148,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:47:32.950058Z",
-  "resourcePaths" : [ "documents/page/PC", "documents/page/PC/.f.metadata.json", "documents/page/PC/.f.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "O312UT8M"
 }, {
@@ -172,13 +166,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/401无权限页面",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:52:19.2979071Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面/401无权限页面.json", "documents/page/PC/系统页面/401无权限页面.metadata.json", "documents/page/PC/系统页面/401无权限页面.refId.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "EEXUTYGQ"
 }, {
@@ -190,13 +178,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/登录页",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:53:27.4853922Z",
-  "resourcePaths" : [ "documents/page/PC/系统页面/登录页.json", "documents/page/PC/系统页面/登录页.metadata.json", "documents/page/PC/系统页面/登录页.refId.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "K8Q8IRQI"
 }, {
@@ -208,13 +190,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:48:58.4276624Z",
-  "resourcePaths" : [ "documents/page/移动端", "documents/page/移动端/.f.metadata.json", "documents/page/移动端/.f.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "XCR1XJCG"
 }, {
@@ -292,13 +268,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "mysql84/testvant",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:53:03.4633431Z",
-  "resourcePaths" : [ "documents/entity/mysql84/testvant.json", "documents/entity/mysql84/testvant.metadata.json", "documents/entity/mysql84/testvant.refId.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "ZPOH0Y87"
 }, {
@@ -377,13 +347,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面2",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:52:33.9442648Z",
-  "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "J5URP57X"
 }, {
