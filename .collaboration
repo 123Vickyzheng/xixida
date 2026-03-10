@@ -359,7 +359,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面2",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:43:32.0654271Z",
+  "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json", "documents/ref-object/J5URP57X.json", "documents/ref-object/J5URP57X.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "J5URP57X"
 }, {
