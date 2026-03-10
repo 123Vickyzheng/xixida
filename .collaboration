@@ -334,13 +334,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:24:52.968477Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/AKSYQ39I.json", "documents/ref-object/AKSYQ39I.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JKYNEF05",
   "exclusiveType" : "AKSYQ39I"
@@ -371,13 +365,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:24:52.968477Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/H6CQTVEY.json", "documents/ref-object/H6CQTVEY.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "H6CQTVEY",
   "exclusiveType" : "AKSYQ39I"
