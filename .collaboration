@@ -172,7 +172,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/401无权限页面",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T08:52:19.2979071Z",
+  "resourcePaths" : [ "documents/page/PC/系统页面/401无权限页面.json", "documents/page/PC/系统页面/401无权限页面.metadata.json", "documents/page/PC/系统页面/401无权限页面.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "EEXUTYGQ"
 }, {
