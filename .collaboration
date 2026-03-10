@@ -472,4 +472,16 @@
   "resourcePaths" : [ "documents/page/PC/文件夹222", "documents/page/PC/文件夹222/.f.metadata.json", "documents/page/PC/文件夹222/.f.json", "documents/ref-object/GKFS9I9I.json", "documents/ref-object/GKFS9I9I.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "GKFS9I9I"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/文件夹222/页面1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:51:53.559089Z",
+  "resourcePaths" : [ "documents/page/PC/文件夹222/页面1.json", "documents/page/PC/文件夹222/页面1.metadata.json", "documents/page/PC/文件夹222/页面1.refId.json", "documents/ref-object/LTBAZ08F.json", "documents/ref-object/LTBAZ08F.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LTBAZ08F"
 } ]
