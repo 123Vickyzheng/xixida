@@ -460,4 +460,16 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "CV8LNKGA"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/文件夹222",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "xa-dd3-vickyzh",
+    "email" : "example@example.com"
+  },
+  "lockDateTime" : "2026-03-10T09:51:43.8055776Z",
+  "resourcePaths" : [ "documents/page/PC/文件夹222", "documents/page/PC/文件夹222/.f.metadata.json", "documents/page/PC/文件夹222/.f.json", "documents/ref-object/GKFS9I9I.json", "documents/ref-object/GKFS9I9I.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "GKFS9I9I"
 } ]
