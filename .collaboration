@@ -184,13 +184,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:08:24.4106165Z",
-  "resourcePaths" : [ "documents/page/PC/页面1.json", "documents/page/PC/页面1.metadata.json", "documents/page/PC/页面1.refId.json", "documents/ref-object/X1NF89YR.json", "documents/ref-object/X1NF89YR.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "X1NF89YR"
 }, {
@@ -334,13 +328,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres11/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:08:24.4106165Z",
-  "resourcePaths" : [ "documents/entity/postgres11/实体1.json", "documents/entity/postgres11/实体1.metadata.json", "documents/entity/postgres11/实体1.refId.json", "documents/ref-object/N5Y2RSKK.json", "documents/ref-object/N5Y2RSKK.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "N5Y2RSKK"
 }, {
@@ -371,13 +359,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "xa-dd3-vickyzh",
-    "email" : "example@example.com"
-  },
-  "lockDateTime" : "2026-03-10T08:09:03.2203299Z",
-  "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json", "documents/ref-object/J5URP57X.json", "documents/ref-object/J5URP57X.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "J5URP57X"
 } ]
